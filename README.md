@@ -32,4 +32,4 @@ Unlike generic budgeting tools, this app focuses on supporting individuals who a
 * Focus on Debt and Credit: Prioritizes helping users pay off debt and improve creditworthiness, not just tracking expenses.
 * Customizability: Budgeting tools and strategies are adapted to each user's financial situation and goals.
 
-[Comprehensive Information Security Policy] (https://docs.google.com/document/d/158eVV5tXpGsRvlVlQrbwjqaeI6VE7zpF5REZGPzYidA/edit?usp=sharing)
+[Comprehensive Information Security Policy]([url](https://docs.google.com/document/d/158eVV5tXpGsRvlVlQrbwjqaeI6VE7zpF5REZGPzYidA/edit?usp=sharing))
